@@ -9,7 +9,7 @@
 ; You can make Calva auto-select this.
 ;   - See https://calva.io/connect-sequences/
 ; 
-; Using host:port localhost:49867 ...
+; Using host:port localhost:51832 ...
 ; Hooking up nREPL sessions ...
 ; Connected session: clj
 ; TIPS:
@@ -35,5 +35,3 @@ nil
 cljs꞉user-activate꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 cljs꞉user-activate꞉> 
-; Could not resolve symbol: http/get
-clj꞉clj-cb-web-app.core꞉> 
